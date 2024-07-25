@@ -1,3 +1,3 @@
-module github.com/chanxuehong/util
+module github.com/RickieL/util
 
-go 1.13
+go 1.21
